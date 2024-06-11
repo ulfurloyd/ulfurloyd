@@ -1,11 +1,7 @@
 
 ### [eklavya@github]$ echo "hello world"  
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
-### <div align="center">I'm Eklavya, an avid Linux enthusiast (I use Arch BTW)</div>  
+### <div align="center">I'm Eklavya, an avid Linux enthusiast</div>  
   
 
 - 🔭 Currently getting my MCA degree  
@@ -14,7 +10,7 @@
 - 🌱 Learning all about DevOps  
   
 
-- ⚡ I've been daily driving Linux since 2019!  
+- ⚡ I've been daily driving Linux since 2019! (I use Arch, BTW) 
   
 
 <br/>  
@@ -79,12 +75,6 @@
 <br/>  
 
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=eklavyasood&show_icons=true&count_private=true&hide_border=true" align="left" />  
-
-<br/>  
-
-
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
 If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
@@ -104,4 +94,3 @@ If things goes well, this section should automatically be replaced by a list of 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
