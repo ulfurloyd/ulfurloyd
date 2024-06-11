@@ -1,4 +1,4 @@
-<div align="center">![Eklavya's GitHub Banner](https://github.com/eklavyasood/eklavyasood/blob/dc1a90e0422a6547dd5c9ac2dc1b94e7e56eda42/imgs/terminal.gif)</div>
+<div align="center"> ![Eklavya's GitHub Banner](https://github.com/eklavyasood/eklavyasood/blob/dc1a90e0422a6547dd5c9ac2dc1b94e7e56eda42/imgs/terminal.gif)</div>
 
 ### [eklavya@github]$ echo "hello world"  
 
