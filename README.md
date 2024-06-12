@@ -28,10 +28,10 @@
 <div align="center">  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="imgs/gnu_bash-icon.svg" alt="Bash" height="75" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="imgs/linux-original.svg" alt="Linux" height="75" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="aws_logo.svg" alt="AWS" height="75" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="imgs/aws_logo.svg" alt="AWS" height="75" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="imgs/git-scm-icon.svg" alt="Git" height="75" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="imgs/python-logo.svg" alt="Python" height="75" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="imgs/microsoft_azure-ico.svg" alt="Azure" height="75" /></a>  
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="imgs/microsoft_azure-icon.svg" alt="Azure" height="75" /></a>  
 </div>
 
 </td><td valign="top" width="50%">
