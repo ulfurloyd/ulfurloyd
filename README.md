@@ -75,9 +75,6 @@
 
 <br/>  
 
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=312if4b7bdofyf2zsc5jf6yjjetu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" /></div>  
-
 <br/>  
 
   
