@@ -13,7 +13,7 @@
 - 🌱 Learning all about DevOps  
   
 
-- ⚡ I've been daily driving Linux since 2019! (I use Arch, BTW) 
+- ⚡ I've been daily driving Linux since 2019! (I use ~~Arch~~ NixOS, btw) 
   
 
 <br/>  
